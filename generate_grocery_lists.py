@@ -62,4 +62,4 @@ class GroceryList:
 
 languages = ["en", "da", "sv", "no"]
 for language in languages:
-    GroceryList(filename="Shallow Grocery Lists/%s.txt" % language, language_code=language).generate()
+    GroceryList(filename="Shallow-Grocery-Lists/%s.txt" % language, language_code=language).generate()
