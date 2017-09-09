@@ -43,9 +43,11 @@ class GroceryList:
 
             # TRANSLATE TO SET LOCALE LANGUAGE.
             if self.language_code != "en":
-                translator = Translator()
-                items = translator.translate("\n".join(items), dest=self.language_code).text.split("\n")
-
+                try:
+                    translator = Translator()
+                    items = translator.translate("\n".join(items), dest=self.language_code).text.split("\n")
+                except:
+                    print "Unable to translate the grocery list into the given language code: %s" % self.language_code
 
             items = sorted(items)
 
