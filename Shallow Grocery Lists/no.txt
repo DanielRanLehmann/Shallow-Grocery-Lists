@@ -1,0 +1,265 @@
+Allergi
+Aluminiumsfolie
+Ansiktsrens
+Ansiktsvev
+Antibiotika
+Antiperspirant / deodorant
+Asparges
+Aspirin
+Automotive
+Avis / magasin
+Avkortning
+Bbq saus
+Baby mat
+Baby vask
+Bacon / pølse
+Bad såpe / håndsåpe
+Baderomsrenser
+Bagels / croissanter
+Bakepulver / soda
+Bakte bønner
+Band-aids / medical
+Biffsaus
+Blekemiddel / vaskemiddel
+Bleuost
+Blomkål
+Blomster / gratulasjonskort
+Boller / rolls
+Bomullspinne / baller
+Bouillon kuber
+Brokkoli
+Brus
+Brødsmuler
+Burger natt
+Cdr / dvdr
+Candy / gum
+Champagne
+Chili natt
+Chip dip
+Club soda / tonic
+Donuts / bakverk
+Eddik
+Egg / falske egg
+Engelsk muffins
+Feminine produkter
+Ferskener
+Ferskt brød
+Fiskepinner
+Flea behandling
+Formel
+Forpakket mat
+Frimerker
+Frites / tater tots
+Frukt
+Fruktjuice
+Fuktighetsgivende lotion
+Geitost
+Gjær
+Gjøremålsliste
+Granola barer / mix
+Grapefrukt
+Gulrøtter
+Halv halv
+Hermet kjøtt
+Honning
+Hummer
+Hummus
+Hundemat / behandler
+Hvitløk
+Hytteost
+Hytteost
+Hårgel / spray
+Insektmiddel
+Instant poteter
+Is / sorbet
+Jam / gelé / konserverer
+Juice
+Juice konsentrere
+Kaffe / filter
+Kake / brownie-blanding
+Kake / kaker
+Kakeisur / dekorasjoner
+Kald / influensa / sinus
+Kanel
+Kattesand
+Kattmat / behandler
+Ketchup / sennep
+Kiwis
+Kjøtt
+Kjøttbiff / tyrkia
+Klarbake brød
+Kondomer / andre b.c.
+Korn
+Korn
+Krabbe
+Krem
+Kremost
+Kull / propan
+Kylling
+Laks
+Leppepomade
+Lim / tape
+Luftrenser
+Lyspærer
+Mac og ost
+Majones
+Mel
+Melk
+Melon
+Mint
+Mop hode / vakuum poser
+Non-stick spray
+Notisblokk / konvolutter
+Nøtter / frø
+Oliven olje
+Oppvaskmaskin / oppvaskmaskin
+Pai! pai! pai!
+Pannekake / vaffelblanding
+Pastasaus
+Peanøttsmør
+Penner / blyanter
+Peppers
+Persille
+Pet shampoo
+Pisket krem
+Pita brød
+Pizza rolls
+Pizza natt
+Plastfolie
+Potet / mais chips
+Pølser
+Razors / barberkrem
+Reke
+Reseptbelastning
+Ris
+Rum
+Rødvin / hvitvin
+Rømme
+Salat / grønt
+Salatdressing
+Salt
+Saus
+Selleri
+Sitron / lime juice
+Sitroner / limer
+Sjampo / balsam
+Sjokoladeflis / kakao
+Skinke / svinekjøtt
+Skiver brød
+Skriverpapir
+Smertestillende
+Smør / margarine
+Smørbrød / fryserposer
+Smørbrødskiver
+Soya saus
+Spaghetti natt
+Spinat
+Sportsdrink
+Squash
+Storfekjøtt
+Sukker
+Sukker erstatning
+Suppe / chili
+Svampe / skrubber
+Svart pepper
+Søppelposer
+Tv-middager
+Taco natt
+Take-out deli mat
+Tannkrem
+Tanntråd
+Te
+Tilfeldig impuls kjøp
+Toalettpapir
+Tunfisk
+Tunfisk / kylling
+Tyrkia
+Tørkepapir
+Tørket frukt
+Vanilje ekstrakt
+Varm saus
+Vegetabilsk olje
+Vindusvasker
+Vinylklorid
+Vitaminer / kosttilskudd
+Voksepapir
+Worcestershire saus
+Yoghurt
+Agurker
+Antidiarrheal
+Appelsiner
+Arsen
+Asbest~~pos=trunc
+Avokado
+Bagels
+Bananer
+Basilikum
+Batterier
+Bleier
+Blåskjell
+Buljong
+Burritos
+Bær
+Cheddar
+Cilantro
+Druer
+Eplemos
+Epler
+Feta
+Frokoster
+Gin
+Grønnsaker
+Grønnsaker
+Havregrøt
+Ingefær
+Kirsebær
+Kjeks
+Kjeks
+Kosmetikk
+Kreftfremkallende
+Lunchmeat
+Løk
+Malle
+Miksere
+Mozzarella
+Munn~~pos=trunc
+Nektariner
+Oliven
+Oregano
+Paprika
+Parmesan
+Pasta
+Pizza
+Plommer
+Popcorn
+Popsicles
+Poteter
+Pretzels
+Provolone
+Pærer
+Radionuklider
+Relish
+Ricotta
+Rød pepper
+Skyld
+Salsa
+Servietter
+Sigaretter
+Sirup
+Snacks
+Sopp
+Squash
+Sunblock
+Sveitsisk
+Sylteagurker
+Syrenøytraliserende
+Tilapia
+Tofu
+Tomater
+Tomater *
+Tortillas
+Vodka
+Whisky
+Wipes
+Øl
+Østers
