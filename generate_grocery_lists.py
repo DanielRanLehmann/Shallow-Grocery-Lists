@@ -48,6 +48,7 @@ class GroceryList:
                     items = translator.translate("\n".join(items), dest=self.language_code).text.split("\n")
                 except:
                     print "Unable to translate the grocery list into the given language code: %s" % self.language_code
+                    raise
 
             items = sorted(items)
 
